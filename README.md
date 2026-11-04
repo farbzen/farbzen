@@ -1,8 +1,11 @@
 # farbzen
 
-Hi there, I am Fabian and I love tinkering with NixOS, writing Neovim plugins and over-engineering everything!
+Hi there, I am Fabian, a DevOps Engineer with a love for software development!
+
+I love tinkering with NixOS, writing Neovim plugins and over-engineering everything!
 
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&labelColor=081216&logo=nixos&logoColor=white)](https://nixos.org)
+[![Hyprland](https://img.shields.io/badge/Hyprland-00A5C8?style=for-the-badge&labelColor=081216&logo=hyprland&logoColor=white)](https://hyprland.org)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&labelColor=081216&logo=neovim)](https://neovim.io)
 [![Rust](https://img.shields.io/badge/Rust-orange?style=for-the-badge&labelColor=081216&logo=rust)](https://www.rust-lang.org)
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&labelColor=081216&logo=lua&logoColor=white)](https://www.lua.org)
