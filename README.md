@@ -15,8 +15,6 @@ Hi there, I am Fabian, a DevOps Engineer with a love for software development!
 
 </div>
 
-I mostly tinker with NixOS, write Neovim plugins and over-engineer everything!
-
 ## NixOS Configuration
 
 * **[core.nix](https://github.com/farbzen/core.nix)**: My personal NixOS configuration and dotfiles as a single flake.
