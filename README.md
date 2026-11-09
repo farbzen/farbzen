@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=".assets/logo.png" alt="image_friend" width="128px" />
+<img src=".assets/logo.png" alt="titan_eye" width="128px" />
 
 # farbzen
 
